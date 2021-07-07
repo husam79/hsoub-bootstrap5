@@ -1,0 +1,21 @@
+body{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 1em;
+}
+
+ul{
+    line-height: 1.85em;
+}
+
+h5{
+    margin-top:24px;
+}
+
+.myclass{
+    margin-left:16px;
+    margin-right:16px;
+}
+
+.code-preview{
+    font-size: 0.95em;
+}
